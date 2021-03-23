@@ -99,7 +99,7 @@ html{
 /* home section styling */
 .home {
   display: flex;
-  background: url("/img/upop1.png") no-repeat;
+  background: url("img/upop1.png") no-repeat;
   height: 80vh;
   color: #fff;
   min-height: 500px;

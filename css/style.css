@@ -98,9 +98,7 @@ html{
 /* ================================================================================================= */
 /* home section styling */
 .home {
-  display: flex;
-  /* background: url("img/upop1.png") no-repeat; */
- 
+  display: flex; 
   height: 80vh;
   color: #fff;
   min-height: 500px;
